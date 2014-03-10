@@ -1,0 +1,18 @@
+---
+:ingredients:
+- :type: :installer
+  :installer_type: :custom
+  :source_url: http://download.jetbrains.com/python/pycharm-professional-3.0.exe
+  :package_name: JetBrains PyCharm 3.0
+  :installer_options: /S
+  :support_32bit: true
+  :support_64bit: 
+- :type: :installer
+  :installer_type: :custom
+  :source_url: http://download.jetbrains.com/python/pycharm-professional-3.0.exe
+  :package_name: JetBrains PyCharm 3.0
+  :installer_options: /S
+  :support_32bit: 
+  :support_64bit: true
+:support_32bit: true
+:support_64bit: true
